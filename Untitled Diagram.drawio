@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T10:34:06.856Z" agent="5.0 (Windows)" etag="rAqj3ygQyuzGeIokSXrb" version="13.10.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T11:17:16.479Z" agent="5.0 (Windows)" etag="JrEWufqlmnkBwHVlgPOU" version="13.10.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1929" dy="1799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,23 +10,11 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="&lt;div&gt;PACIENT&lt;br&gt;&lt;/div&gt;&lt;div&gt;Numer pesel 9989111&lt;/div&gt;&lt;div&gt;imie&amp;nbsp; Jan&lt;/div&gt;&lt;div&gt;Nazwisko&amp;nbsp; Nowak &lt;br&gt;&lt;/div&gt;&lt;div&gt;tel 887-921-763&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-20" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
-          <mxGeometry y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
-            <Array as="points">
-              <mxPoint x="600" y="93" />
-              <mxPoint x="600" y="270" />
-              <mxPoint x="80" y="270" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;div&gt;rejestracja &lt;br&gt;&lt;/div&gt;&lt;div&gt;Numer pacjenta w kolejce - 8 &lt;br&gt;&lt;/div&gt;&lt;div&gt;Numer kartoteki -9978A&lt;/div&gt;&lt;div&gt;Rodzaj płatności -NFZ /Prywatnie &lt;br&gt;&lt;/div&gt;&lt;div&gt;Przypisanie do Lekarza Rodzinnego &lt;br&gt;&lt;/div&gt;&lt;div&gt;/specjalisty &lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="&lt;div&gt;rejestracja &lt;br&gt;&lt;/div&gt;&lt;div&gt;Rodzaj wizyty - osobiście/teleporada&lt;/div&gt;&lt;div&gt;Numer pacjenta w kolejce - 8 &lt;br&gt;&lt;/div&gt;&lt;div&gt;Numer kartoteki -9978A&lt;/div&gt;&lt;div&gt;Rodzaj płatności -NFZ /Prywatnie &lt;br&gt;&lt;/div&gt;&lt;div&gt;Przypisanie do Lekarza Rodzinnego &lt;br&gt;&lt;/div&gt;&lt;div&gt;/specjalisty &lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="220" y="-30" width="270" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="b-2T6GS9UwFd8YhWVU8k-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.895;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="b-2T6GS9UwFd8YhWVU8k-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="&lt;div&gt;lekarza&lt;/div&gt;&lt;div&gt;Imie -Tomasz&lt;/div&gt;&lt;div&gt;Nazwisko Kowalski&lt;/div&gt;&lt;div&gt;Tel -779-210-228&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Pesel 76021102001&lt;/div&gt;&lt;div&gt;Numer wykonywania zawodu -77643AC&lt;/div&gt;&lt;div&gt;Specjalizacja -Kardiolog&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="550" y="-20" width="260" height="180" as="geometry" />
@@ -42,10 +30,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="b-2T6GS9UwFd8YhWVU8k-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.633;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="&lt;div&gt;badanie&lt;/div&gt;&lt;div&gt;Rodzaj EKG&lt;/div&gt;&lt;div&gt;Dla kogo - Jan Nowak&lt;/div&gt;&lt;div&gt;NR,karty 9978A&lt;/div&gt;&lt;div&gt;Termin :02-012021&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Płatnik-NFZ &lt;br&gt;&lt;/div&gt;&lt;div&gt;Lekarz kierujący Tomasz Kowalski&lt;/div&gt;&lt;div&gt;Podpis -elektroniczny &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="10" y="260" width="260" height="220" as="geometry" />
@@ -55,6 +41,77 @@
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="&lt;div&gt;miejsce wykonania&lt;/div&gt;&lt;div&gt;Szpital kliniczny MSWiA&lt;/div&gt;&lt;div&gt;Warszawa , Ulica XXX&lt;/div&gt;&lt;div&gt;Piętro -3&lt;/div&gt;&lt;div&gt;Gabinet 11A&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="414" y="430" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="b-2T6GS9UwFd8YhWVU8k-0" value="" style="endArrow=classic;html=1;exitX=0.818;exitY=-0.022;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;fillColor=#ffe6cc;strokeColor=#FF0000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="WIyWlLk6GJQsqaUBKTNV-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="390" as="sourcePoint" />
+            <mxPoint x="440" y="340" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b-2T6GS9UwFd8YhWVU8k-1" value="&lt;div&gt;Wybiera &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="70" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b-2T6GS9UwFd8YhWVU8k-2" value="rejstruje" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b-2T6GS9UwFd8YhWVU8k-3" value="Wystawia skierowanie i recepte " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="670" y="280" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="b-2T6GS9UwFd8YhWVU8k-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="b-2T6GS9UwFd8YhWVU8k-4" target="WIyWlLk6GJQsqaUBKTNV-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="410" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b-2T6GS9UwFd8YhWVU8k-4" value="Realizacja" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="400" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b-2T6GS9UwFd8YhWVU8k-6" value="Uzupełnienie Kartoeki o nowe badanie" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="230" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="b-2T6GS9UwFd8YhWVU8k-7" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.611;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="260" as="sourcePoint" />
+            <mxPoint x="440" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b-2T6GS9UwFd8YhWVU8k-9" value="" style="curved=1;endArrow=classic;html=1;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" target="WIyWlLk6GJQsqaUBKTNV-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="260" as="sourcePoint" />
+            <mxPoint x="440" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="430" />
+              <mxPoint x="790" y="290" />
+              <mxPoint x="730" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b-2T6GS9UwFd8YhWVU8k-11" value="" style="endArrow=none;html=1;strokeColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="b-2T6GS9UwFd8YhWVU8k-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b-2T6GS9UwFd8YhWVU8k-12" value="&lt;div&gt;Diagnoza&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="470" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b-2T6GS9UwFd8YhWVU8k-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=-0.013;entryY=0.858;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="912" as="sourcePoint" />
+            <mxPoint x="-21.950000000000045" y="104.96000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b-2T6GS9UwFd8YhWVU8k-13" value="&lt;div&gt;Recepta&lt;/div&gt;&lt;div&gt;Rodzaj - E.recepta / papierowa &lt;br&gt;&lt;/div&gt;&lt;div&gt;Dla - Jan Kowalski &lt;br&gt;&lt;/div&gt;&lt;div&gt;NR Pesel - &lt;br&gt;&lt;/div&gt;&lt;div&gt;Numer Telefonu &lt;br&gt;&lt;/div&gt;&lt;div&gt;KOD recepty -|||| ||||| ||||||||| ||||||| &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Rodzaj i nazwa leków - XXX,,XXX,XX,&lt;/div&gt;&lt;div&gt;Opis dawkowania- XX.XXX&lt;/div&gt;&lt;div&gt;Data kolejnej wizyty -22.11.XXXX&lt;/div&gt;&lt;div&gt;Lekarz wystawiający &lt;br&gt;&lt;/div&gt;&lt;div&gt;Podpis-Elektroniczny &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="540" y="700" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="b-2T6GS9UwFd8YhWVU8k-17" value="Recepty , skierowania, terminy badań dostępne papierowo za zgodą lekarza&amp;nbsp; tylko przy wizycie osobistej&amp;nbsp; (fizycznej ) , oraz automatycznie&amp;nbsp; w aplikacji Mój Lekarz " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="910" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="b-2T6GS9UwFd8YhWVU8k-19" value="Wysyła do Aplikacji urzytkownika" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="165" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
